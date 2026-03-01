@@ -37,7 +37,7 @@ const { chromium } = require('playwright');
   }
 
   console.log('--- FINAL SUBMISSION DATA ---');
-  console.log('Email: 23f2004440@ds.study.iitm.ac.in');
+  console.log('Email: 23f2003806@ds.study.iitm.ac.in');
   console.log('TOTAL_SUM:', totalSum);
 
   await browser.close();
